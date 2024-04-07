@@ -40,14 +40,14 @@ header {
     min-width: 300px;
     border-radius: 8px;
 }
-.borrar-curso {
-    background-color: red;
-    border-radius: 50%;
-    padding: 5px 10px;
+.borrar-producto {
+    margin-left: 3px;
+    padding: 4px 9px;
     text-decoration: none;
     color: white;
     font-weight: bold;
 }
+
 .ul {
     list-style: none;
 }
